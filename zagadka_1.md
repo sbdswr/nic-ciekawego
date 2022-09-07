@@ -1,7 +1,7 @@
 Wstępniak do systemów liczbowych
 ================================
 
-Ci, którzy już trochę programują, pewnie spotkali się z zapisami liczbami w postaci np. 0b1111011, 0o173, 0x7B czy może z jakimś dziwnym niepotrzebnym dodatkowym zerem jak 0173. Wszystkie te liczby w naszej codziennej matematyce to liczba 123, przy okazji też symbol "{" w Unicode. Form zapisu jest więcej. A i mogliście slyszeć, że nazywa się to liczbami binarnymi (to ta z początkiem 0b), ósemkowymi (zarówno 0o jak i samo 0) czy szesnastkowymi (0x).
+Ci, którzy już trochę programują, pewnie spotkali się z zapisami liczb w postaci np. 0b1111011, 0o173, 0x7B czy może z jakimś dziwnym niepotrzebnym dodatkowym zerem jak 0173. Wszystkie te liczby w naszej codziennej matematyce to liczba 123, przy okazji też symbol "{" w Unicode. Form zapisu jest więcej. A i mogliście slyszeć, że nazywa się to liczbami binarnymi (to ta z początkiem 0b), ósemkowymi (zarówno 0o jak i samo 0) czy szesnastkowymi (0x).
 
 Jak to się liczy? Prosto. Wystarczy umieć dodawać, mnożyć i potęgować (czyli znowu - mnożyć). Najprościej jest to pokazać na liczbie 123, zapisanej dziesiętnie, czyli tak, jak liczymy na co dzień:
 

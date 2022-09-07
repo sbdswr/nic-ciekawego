@@ -9,7 +9,7 @@ $3 \cdot 10^0 + 2 \cdot 10^1 + 1 \cdot 10^2 = 3 \cdot 1 + 2 \cdot 10 + 1 \cdot 1
 
 Ale o co chodzi? Chodzi o to, że kolejne cyfry czytane od prawej strony mnożymy przez rosnącą potęgę podstawy systemu liczbowego, zaczynając od potęgi 0.
 
-Podstawa, czyli to co potęgujemy, bierze się z nazwy systemu. System dziesiętny ma podstawę 10, szesnastkowy - 16, dwójkowy (binarny) - 2, ósemkowy - 8. W systemie o podstawie N, są dostępne cyfry od 0 do N - 1, czyli dla systemu o podstawie N = 10 (tym codziennym), są cyfry od 0 do 9, ale w systemie o podstawie 8 - od 0 do 7. Dla systemu o podstawie 16 są zatem "cyfry" od 0 do 15, ale dla wygody, by był to jeden znak, przyjęło się zapisywać "cyfry" od 10 do 15 jako litery od A do F. A w tym, w którym myśli komputer - dwójkowym - tylko cyfry 0 i 1. Wracająć do liczenia:
+Podstawa, czyli to co potęgujemy, bierze się z nazwy systemu. System dziesiętny ma podstawę 10, szesnastkowy - 16, dwójkowy (binarny) - 2, ósemkowy - 8. W systemie o podstawie N, są dostępne cyfry od 0 do N - 1, czyli dla systemu o podstawie N = 10 (tym codziennym), są cyfry od 0 do 9, ale w systemie o podstawie 8 - od 0 do 7. Dla systemu o podstawie 16 są zatem "cyfry" od 0 do 15, ale dla wygody, by był to jeden znak, przyjęło się zapisywać "cyfry" od 10 do 15 jako litery od A do F. A w tym, w którym myśli komputer - dwójkowym - tylko cyfry 0 i 1. Wracając do liczenia:
 
 $0b1111011 = 1 \cdot 2^0 + 1 \cdot 2^1 + 0 \cdot 2^2 + 1 \cdot 2^3 + 1 \cdot 2^4 + 1 \cdot 2^5 + 1 \cdot 2^6 = 1 \cdot 1 + 1 \cdot 2 + 0 \cdot 4 + 1 \cdot 8 + 1 \cdot 16 + 1 \cdot 32 + 1 \cdot 64 = 1 + 2 + 0 + 8 + 16 + 32 + 64 = 123$
 

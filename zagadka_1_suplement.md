@@ -15,7 +15,7 @@ Zróbmy teraz małe przekształcenia. Najpierw, pogrupujmy po 3 składniki:
 
 $... = (0 \cdot 2^0 + 0 \cdot 2 ^ 1 + 1 \cdot 2 ^ 2) + (1 \cdot 2 ^ 3 + 1 \cdot 2 ^ 4 + 0 \cdot 2 ^ 5) + (0 \cdot 2 ^ 6 + 1 \cdot 2 ^ 7 + 0 \cdot 2 ^ 8) + (1 \cdot 2 ^ 9 + 0 \cdot 2 ^ {10} + 0 \cdot 2 ^ {11} )$
 
-Na końcu dopisałem sobie $0 \cdot 2^8 + 0 \cdot 2^9$, bo przecież nikt nie broni napisać więcej zer z przodu w liczbie, tak by mieć $001010011100_{2}$, a dzięki temu mamy równo po trzy. Teraz z każdego nawiasu wyłączmy najmniejszą wspólną potęgę dwójki:
+Na końcu dopisałem sobie $0 \cdot 2^{10} + 0 \cdot 2^{11}$, bo przecież nikt nie broni napisać więcej zer z przodu w liczbie, tak by mieć $001010011100_{2}$, a dzięki temu mamy równo po trzy. Teraz z każdego nawiasu wyłączmy najmniejszą wspólną potęgę dwójki:
 
 $... = 2^0(0 \cdot 2^0 + 0 \cdot 2 ^ 1 + 1 \cdot 2 ^ 2) + 2^3(1 \cdot 2^0 + 1 \cdot 2 ^ 1 + 0 \cdot 2 ^ 2) + 2^6(0 \cdot 2 ^ 0 + 1 \cdot 2 ^ 1 + 0 \cdot 2 ^ 2) + 2^9(1 \cdot 2 ^ 0 + 0 \cdot 2 ^ 1 + 0 \cdot 2 ^ 2)$
 
